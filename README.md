@@ -1,3 +1,3 @@
 # rishu_demo
 This is my first repository
-Author-Rishu
+Author-Rishu Bhadani
